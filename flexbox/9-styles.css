@@ -400,7 +400,7 @@
   }
 
   /* Section SERVICES ============================= */
-  .row {
+  .section-services .row {
     flex-wrap: wrap;
   }
 
