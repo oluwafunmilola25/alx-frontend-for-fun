@@ -667,3 +667,12 @@
         padding: 1rem 0;
         margin: 0;
     }
+
+    /* all fieldset*/
+    .fieldset {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        border: "";
+        padding: 0 0 2rem;
+    }
