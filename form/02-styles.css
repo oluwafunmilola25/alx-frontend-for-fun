@@ -656,7 +656,7 @@
     }
 
     .post-comments .section-title {
-        font-variant: small-caps
+        font-variant: small-caps;
     }
 
     /* Basic form
@@ -669,7 +669,7 @@
     }
 
     /* all fieldset*/
-    .fieldset {
+    fieldset {
         display: flex;
         flex-direction: column;
         justify-content: flex-start;
